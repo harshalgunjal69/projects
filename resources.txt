@@ -1,0 +1,46 @@
+Gradient
+-- https://bg.ibelick.com/
+-- https://webkul.github.io/coolhue/
+-- https://angrytools.com/gradient/
+
+
+Box-shadow
+-- https://angrytools.com/css-generator/box-shadow/
+
+
+Animations, bg-effects:
+-- https://animista.net/
+
+
+Icons
+-- https://heroicons.com/
+-- https://fontawesome.com/
+-- https://hugeicons.com/
+
+Animated Icons
+-- https://lordicon.com/icons
+
+
+Auth
+-- kinde
+-- supabase
+-- firebase
+
+
+
+
+Packages
+
+==> Toast
+    -- react-toastify
+    -- react-hot-toast
+
+==> Dates
+    -- moment
+
+==> Validators, infinite-scrolling
+    -- 6pp
+
+==> Charts
+    -- chart.js react-chartjs-2 
+   
